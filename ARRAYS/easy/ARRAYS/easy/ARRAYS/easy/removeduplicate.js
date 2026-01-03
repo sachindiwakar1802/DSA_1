@@ -1,3 +1,0 @@
-function duplicate(arr){
-  
-}
